@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **Marco Alvarez**, I'm a Software Engineer from Paraguay with 11+ year of experience in the software development. 
+
+I'm currently working on improve my Java skills, learning about new tech, specially in the back-end space.
+
+As far as front-end is concerned, I have some knowledge of Angular, HTML and CSS
+
+Here you will find some of my demos projects, and I hope you like it. 
